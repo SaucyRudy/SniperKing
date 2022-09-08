@@ -10,3 +10,5 @@ Changed parapraph elements to work how they should
 Took all info and put it together, removed unimportant information
 Added achievement list
 Adjusted 1st image size, Larger
+Added Vocab section
+Adjusted 1st image size, larger
