@@ -6,3 +6,7 @@ Added 2nd paragraph about his background
 Added style elements to the text
 Added 3rd paragraph about his past bounties and what role he serves in the crew Added more style elements 
 Changed 1st Image Added 2nd image
+Changed parapraph elements to work how they should
+Took all info and put it together, removed unimportant information
+Added achievement list
+Adjusted 1st image size, Larger
