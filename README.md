@@ -13,3 +13,4 @@ Adjusted 1st image size, Larger
 Added Vocab section
 Adjusted 1st image size, larger
 Added information to Achievement list and Vocab Section
+Added image GIF
