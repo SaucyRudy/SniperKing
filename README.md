@@ -13,10 +13,8 @@ Adjusted 1st image size, Larger
 Added Vocab section
 Adjusted 1st image size, larger
 Added information to Achievement list and Vocab Section
-<<<<<<< HEAD
 Removed accidental "vscode" file thing that messed up my code
-=======
 Added image GIF
 Added Straw hat html
 Added Image to Straw hat html
->>>>>>> d399d67abf03705eaf9ae5157a19128af2f3fdfa
+Added all html needed
