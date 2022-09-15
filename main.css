@@ -7,3 +7,8 @@ a{
 b{
     font-size: larger;
 }
+table {
+    border: 1px solid black; border-collapse: collapse; }
+    th, td {
+    border: 1px solid black; padding: .2em .7em; text-align: right; }
+    th.left, td.left { text-align: left; } thead, tfoot { background-color: lightgreen; } tfoot { font-weight: bold; }
