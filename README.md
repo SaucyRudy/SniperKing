@@ -14,3 +14,5 @@ Added Vocab section
 Adjusted 1st image size, larger
 Added information to Achievement list and Vocab Section
 Added image GIF
+Added Straw hat html
+Added Image to Straw hat html
