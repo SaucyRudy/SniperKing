@@ -19,3 +19,5 @@ Added Straw hat html
 Added Image to Straw hat html
 Added all html needed
 Completed table in vocab html
+Completed Achievement and Loss html
+Added more images
